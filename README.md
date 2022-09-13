@@ -1,1 +1,1 @@
-# NFL_Betting_and_Fantasy_Tool
+# NFL Betting and Fantasy Tool
